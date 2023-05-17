@@ -2,6 +2,8 @@
 
 NAVAL BATTLE GAME
 
+You can download game-ready Windows version from releases. 
+
 Requirements:
 1. Windows 8.1 and newer
 2. Python 3.10
