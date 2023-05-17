@@ -2,7 +2,7 @@
 
 NAVAL BATTLE GAME
 
-You can download game-ready Windows version from releases. 
+You can download game-ready Windows version from "Releases". 
 
 Requirements:
 1. Windows 8.1 and newer
